@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|c:\\users\\zenbook\\onedrive\\documents\\visual studio 2022\\pvv_lesson04\\pvv_lesson04\\controllers\\pvvcustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|solutionrelative:pvv_lesson04\\controllers\\pvvcustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|c:\\users\\zenbook\\onedrive\\documents\\visual studio 2022\\pvv_lesson04\\pvv_lesson04\\views\\pvvcustomer\\pvvlistcustmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|solutionrelative:pvv_lesson04\\views\\pvvcustomer\\pvvlistcustmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|c:\\users\\zenbook\\onedrive\\documents\\visual studio 2022\\pvv_lesson04\\pvv_lesson04\\views\\pvvcustomer\\pvvcustomerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|solutionrelative:pvv_lesson04\\views\\pvvcustomer\\pvvcustomerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|c:\\users\\zenbook\\onedrive\\documents\\visual studio 2022\\pvv_lesson04\\pvv_lesson04\\controllers\\pvvcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|solutionrelative:pvv_lesson04\\controllers\\pvvcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|c:\\users\\zenbook\\onedrive\\documents\\visual studio 2022\\pvv_lesson04\\pvv_lesson04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|solutionrelative:pvv_lesson04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|c:\\users\\zenbook\\onedrive\\documents\\visual studio 2022\\pvv_lesson04\\pvv_lesson04\\models\\pvvcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB793E-C9DE-4A14-888E-72BAB0A7AA7B}|Pvv_lesson04\\Pvv_lesson04.csproj|solutionrelative:pvv_lesson04\\models\\pvvcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pvv_lesson04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pvv_lesson04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T02:10:57.068Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PvvCustomerScaffdingController.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Controllers\\PvvCustomerScaffdingController.cs",
+              "RelativeDocumentMoniker": "Pvv_lesson04\\Controllers\\PvvCustomerScaffdingController.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Controllers\\PvvCustomerScaffdingController.cs",
+              "RelativeToolTip": "Pvv_lesson04\\Controllers\\PvvCustomerScaffdingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:33:25.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PvvListCustmer.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Views\\PvvCustomer\\PvvListCustmer.cshtml",
+              "RelativeDocumentMoniker": "Pvv_lesson04\\Views\\PvvCustomer\\PvvListCustmer.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Views\\PvvCustomer\\PvvListCustmer.cshtml",
+              "RelativeToolTip": "Pvv_lesson04\\Views\\PvvCustomer\\PvvListCustmer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T02:34:30.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PvvCustomerDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Views\\PvvCustomer\\PvvCustomerDetail.cshtml",
+              "RelativeDocumentMoniker": "Pvv_lesson04\\Views\\PvvCustomer\\PvvCustomerDetail.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Views\\PvvCustomer\\PvvCustomerDetail.cshtml",
+              "RelativeToolTip": "Pvv_lesson04\\Views\\PvvCustomer\\PvvCustomerDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T02:04:51.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PvvCustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Controllers\\PvvCustomerController.cs",
+              "RelativeDocumentMoniker": "Pvv_lesson04\\Controllers\\PvvCustomerController.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Controllers\\PvvCustomerController.cs",
+              "RelativeToolTip": "Pvv_lesson04\\Controllers\\PvvCustomerController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:53:06.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PvvCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Models\\PvvCustomer.cs",
+              "RelativeDocumentMoniker": "Pvv_lesson04\\Models\\PvvCustomer.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\Documents\\Visual Studio 2022\\Pvv_lesson04\\Pvv_lesson04\\Models\\PvvCustomer.cs",
+              "RelativeToolTip": "Pvv_lesson04\\Models\\PvvCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:47:45.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "PvvListCustmer";
+    var list = ViewBag.list;
+   // var list = Model as list<Pvv.lesson04.Models.PvvCustomer>
+    int stt = 0;
+}
+
+<h2>danh sach khach hang</h2>
+<div class="row">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>ma so</th>
+                <th>dia chi</th>
+                <th>nam sinh</th>
+                <th>chuc nang</th>
+        
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in list)
+            {
+                stt++;
+<tr>
+    <td>@stt</td>
+    <td>@item.Customer</td>
+    <td>@item.firstname @item.lastname</td>
+    <td>@item.address</td>
+    <td>@item.YearOfBirth</td>
+    <td>
+        <a href="#">edit</a>
+        <a href="#">delete</a>
+    </td>
+
+</tr>
+            }
+            
+        </tbody>
+    </table>
+</div>
+
